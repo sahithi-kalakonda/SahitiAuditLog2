@@ -19,15 +19,15 @@
 # Screenshots:
 Main Activity:
 
-<img width="197" alt="image" src="https://github.com/hhh99-hub/HemangCHATGPT-AuditLog/blob/main/screenshots/SP9.png">
+<img width="197" alt="image" src="https://github.com/sahithi-kalakonda/SahitiAuditLog2/blob/main/screenshots/HP2.png">
 
 Saving prompt and response:
 
-<img width="237" alt="image" src="https://github.com/hhh99-hub/HemangCHATGPT-AuditLog/blob/main/screenshots/SP12.png">
+<img width="237" alt="image" src="https://github.com/sahithi-kalakonda/SahitiAuditLog2/blob/main/screenshots/HP3.png">
 
 Displaying the logs:
 
-<img width="237" alt="image" src="https://github.com/hhh99-hub/HemangCHATGPT-AuditLog/blob/main/screenshots/SP10.png">
+<img width="237" alt="image" src="https://github.com/sahithi-kalakonda/SahitiAuditLog2/blob/main/screenshots/HP8.png">
 
 
 
